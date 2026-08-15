@@ -1,4 +1,4 @@
-# 📚 DocuMind — AI-Powered PDF RAG Chatbot
+# 📚 DocuMind — AI-Powered PDF Chatbot
 
 DocuMind is an AI-powered document assistant that allows users to upload PDF documents and ask questions about their content.
 
